@@ -71,21 +71,14 @@ d)	Steps to Clean Up (Terminate the Instance)
 2.	Select your instance → Instance State → Terminate.
 
 
-## Snap Shots:
+## OUTPUT:
  
 
-Snap Shot 1: 
+<img width="1037" height="455" alt="Screenshot 2025-11-12 222547" src="https://github.com/user-attachments/assets/ba1344cd-1df9-41d3-b242-733b07e3a7e1" />
 
-<img width="1004" height="539" alt="image" src="https://github.com/user-attachments/assets/7bcbc34a-925f-45be-b177-e82e38f39bbc" />
+<img width="1038" height="802" alt="Screenshot 2025-11-12 222625" src="https://github.com/user-attachments/assets/24bb1e6c-b2f6-46b0-a112-7b5a7ec9bd92" />
 
-Simple Storage Service (S3)
- 
-
-Snap Shot 2: 
-
-<img width="981" height="583" alt="image" src="https://github.com/user-attachments/assets/3f6f7b88-7425-4179-a1e3-bc1a85fb1372" />
-
-EC2 (Elastic Compute Cloud) – Instance
+<img width="1038" height="788" alt="Screenshot 2025-11-12 222644" src="https://github.com/user-attachments/assets/cb05c454-09e9-4889-914d-569ce115a05a" />
 
 
 
